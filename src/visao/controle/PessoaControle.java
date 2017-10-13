@@ -4,7 +4,6 @@ package visao.controle;
 import java.io.Serializable;
 import java.text.ParseException;
 import java.time.LocalDate;
-import java.util.Date;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
@@ -16,7 +15,6 @@ import javafx.scene.control.TableView;
 import javafx.scene.control.TextField;
 import javafx.scene.control.ToggleGroup;
 import javafx.scene.layout.HBox;
-import javafx.scene.text.Text;
 import modelo.dominio.PessoaFisica;
 import modelo.dominio.PessoaJuridica;
 import modelo.dominio.Usuario;
